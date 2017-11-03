@@ -1,0 +1,3 @@
+[submodule "salestool"]
+	path = salestool
+	url = https://gitlab.com/wemystic/ecomm/salestool.git
